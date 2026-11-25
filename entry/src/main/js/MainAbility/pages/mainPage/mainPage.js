@@ -1,6 +1,6 @@
 import {
     Builder, Message, P2pClient
-} from '../wearenginesdk/wearengine'; // After downloading the wear engine file for lite wearable from the place it, please check readme.
+} from '../wearenginesdk/wearengine'; // After downloading the wear engine file for SportWatch from the place it, please check readme.
 import app from '@system.app';
 import { PHONE_APP_FINGERPRINT, PHONE_APP_PACKAGE_NAME } from '../../constants/constants.js';
 import brightness from '@system.brightness';

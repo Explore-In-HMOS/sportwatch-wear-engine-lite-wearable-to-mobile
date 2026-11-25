@@ -1,9 +1,9 @@
 > **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
-# [Mobile - Lite Wearable] WearEngine Message & File Send/Receiver
+# [Mobile - SportWatch] WearEngine Message & File Send/Receiver
 
 This app shows how to use the Huawei Wear Engine SDK. 
-It helps an Android phone talk to a Huawei Sport Watch (Lite Wearable). 
+It helps an Android phone talk to a Huawei SportWatch. 
 The app can send and receive messages and file between the phone and the watch.
 
 # Preview
@@ -22,7 +22,7 @@ The app can send and receive messages and file between the phone and the watch.
 
 ## Stack
 
-- Languages: JavaScript (Huawei LiteWearable)
+- Languages: JavaScript (Huawei SportWatch)
 - Tools: Android Studio, Huawei DevEco IDE
 - Libraries: Wear Engine SDK (Huawei P2P Messaging, Huawei P2P Receive File & Message)
 
@@ -90,9 +90,9 @@ file.txt
 2. After downloading the wear engine file from the [document (click to visit download page)](https://developer.huawei.com/consumer/en/doc/connectivity-Library/litewearable-sdk-cn-0000001705004353), 
 place it in  ```\entry\src\main\js\MainAbility\wearengine``` directory.
 3. Set signing configs and PEER_PKG_NAME & PEER_FINGERPRINT in utils.
-4. Build and run the app on a **Huawei lite wearable**.
+4. Build and run the app on a **Huawei SportWatch**.
 5. Ensure the **sport watch** and **mobile app** are properly paired.
 
 # LICENSE
-[Mobile - Lite Wearable] WearEngine Message & File Send/Receiver is distributed under the terms of the MIT License.
+[Mobile - SportWatch] WearEngine Message & File Send/Receiver is distributed under the terms of the MIT License.
 See the [license](/LICENSE) for more information.
